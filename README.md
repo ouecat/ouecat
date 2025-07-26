@@ -7,6 +7,7 @@ I am ouecat, or Cat, A software developer.
 
 - Blog: [https://ouecat.github.io/](https://ouecat.github.io/)
 - Email: [ouepuss@gmail.com](mailto:ouepuss@gmail.com)
+- Telegram: [@ouecat](https://t.me/ouecat)
 
 ## Teck Stack
 
